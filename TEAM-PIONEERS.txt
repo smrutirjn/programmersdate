@@ -1,0 +1,26 @@
+PROJECT TITLE-HOSPITALLY
+TEAM-PIONEERS
+MEMBER-1-SUBHANKIT PRUSTI
+MEMBER-2-SMRUTI RANJAN BEHERA
+
+PROJECT DESCRIPTION-
+So we all know that in this critical situation of corona where it is difficult for the administartion to track the
+health condition of so many patients, it is a high time to make hospital management automated as the number of patients
+are increasing day by day. it is also difficult for the people to go and consult the doctors. so we propose to develop
+a web app HOSPITALLY where a user can find all the nearby hospitals in his area and also can check the doctor's a
+availability from the list of the hospitals and can also track the total number of beds available in that hospital.
+HOSPITALLY also comes with a telegram integrated chatbot that let's the user know about all the details about COVID-19 
+.It also has a section for hospital management where they can login and track the bed available in their hospitals
+and record the patient health conditions. WE also have an IOT based smart saline monitoring system where an alert 
+can be sent to the hospital managemnt if the saline level goes down so that it won't be any need to regularly check
+the saline status of a patient and the system is made fully automated.
+
+TECHNOLOGY STACK USED-
+Bubble.io(for web app development)
+Arduino IDE(for IOT based smart bottle for saline monitoring)
+Firebase(for getting realtime database of saline status)
+Google Dialogflow(for making chatbot) 
+
+
+HOSPITALLY - https://hospitally.bubbleapps.io/
+YOUTUBE DESCRIPTION-https://youtu.be/hgr_biLTJlQ
